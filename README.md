@@ -121,7 +121,7 @@ Contributions are welcome! Open issues or submit PRs for improvements, bug fixes
 
 ## 📬 Contact
 
-- **Author**: Aarish Malik  
+- **Author**: Anas Malik  
 - **LinkedIn**: [linkedin.com/in/anas-malik-01](https://linkedin.com/in/anas-malik-01/)
 
 ---
